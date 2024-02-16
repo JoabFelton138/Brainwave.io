@@ -7,6 +7,7 @@ import Navigation from './components/navigation';
 import Content from './components/content';
 import SwitchContainer from './components/switch-container';
 import Pricing from './components/pricing';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -38,6 +39,9 @@ function App() {
        <Content
         title={'Check our features'}
       />
+
+      <Footer/>
+
     </div>
   );
 }

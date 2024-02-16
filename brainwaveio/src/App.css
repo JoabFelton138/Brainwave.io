@@ -52,3 +52,23 @@
   color: white !important; 
 }
 
+/** footer **/
+
+.footer-header{
+  color: gray;
+}
+
+.footer-options {
+  color:white;
+}
+
+.m-4{
+  margin-top: 5vw !important;
+  margin-bottom: 2vw !important;
+
+}
+
+.last-col{
+  margin-bottom: 5vw;
+}
+
