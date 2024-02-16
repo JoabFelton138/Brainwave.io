@@ -9,3 +9,14 @@
   color: black !important;
 }
 
+/* content sections */
+
+.mt-1 {
+  margin-top: 3.25rem!important;
+  text-align: center;
+}
+
+.mt-2 {
+  margin-top: 1.5rem!important;
+}
+
