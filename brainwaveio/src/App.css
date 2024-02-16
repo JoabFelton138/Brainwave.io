@@ -20,3 +20,18 @@
   margin-top: 1.5rem!important;
 }
 
+/* button container*/
+
+.switch-container{
+  margin-top: 2.5vw;
+}
+
+.switch-container .row{
+  --bs-gutter-x: -48rem;
+}
+
+.form-switch .form-check-input:checked {
+  background-color: #5D3FD3;
+  border-color: #5D3FD3;
+}
+
