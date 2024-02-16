@@ -35,3 +35,20 @@
   border-color: #5D3FD3;
 }
 
+/** pricing cards **/
+
+.pricing-container{
+  margin-top: 3vw;
+}
+
+.custom-btn{
+  background-color: #E6E6FA !important;
+  color: #5D3FD3 !important;
+  border: none !important;
+}
+
+.custom-btn:hover {
+  background-color: #5D3FD3 !important;
+  color: white !important; 
+}
+
